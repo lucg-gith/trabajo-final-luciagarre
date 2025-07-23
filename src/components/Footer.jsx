@@ -3,8 +3,8 @@ const Footer = () => {
     <footer>
       <p>
         Website developed by{" "}
-        <a href="https://www.linkedin.com/in/luciagarre/" target="blank">
-          Lucia
+        <a href="https://www.linkedin.com/in/luciagarre/" target="_blank">
+          Lucia{" "}
         </a>
       </p>
     </footer>
