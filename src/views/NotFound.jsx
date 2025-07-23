@@ -1,4 +1,7 @@
 const NotFound = () => {
-  return <p>NotFound</p>;
+  return ( <Layout>
+      {" "}
+      <p>Placeholder</p>{" "}
+    </Layout>)>;
 };
 export { NotFound };
